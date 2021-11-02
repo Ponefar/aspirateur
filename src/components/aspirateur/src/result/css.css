@@ -1,0 +1,16 @@
+.grid {
+    display: grid;
+    box-sizing: border-box;
+    /* overflow: hidden; */
+    width: auto;
+}
+
+.apirateur {
+    text-align: center;
+    margin: 0 auto;
+    z-index: 999999;
+}
+
+.border {
+    border: 2px solid royalblue;
+}
