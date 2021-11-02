@@ -254,6 +254,10 @@ textarea {
     font-family: "The Antiqua B",Georgia,Droid-serif,serif;
 }
 
+.royalBleu {
+    color: royalblue;
+}
+
 input[type=submit], button {
     font-size: 1.2rem;
     line-height: 1.6;
